@@ -11,3 +11,5 @@ async function sqliteConnection() {
 }
 
 module.exports = sqliteConnection;
+
+// SGBD gerenciador de banco de dados
